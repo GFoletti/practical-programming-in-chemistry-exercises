@@ -1,0 +1,3 @@
+Molecule: Sérotonine
+Image URL: https://github.com/GFoletti/ppchem/blob/main/s%C3%A9rotonine.jpg
+Description: La sérotonine, encore appelée 5-hydroxytryptamine (5-HT), est une monoamine de la famille des indolamines.
